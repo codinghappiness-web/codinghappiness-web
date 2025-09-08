@@ -41,6 +41,7 @@ Here’s a glimpse of what I’m working on or sharing on GitHub:
 - [Creating a Translation API: Training, Deploying and Testing with Lamatic.ai](https://medium.com/@omalehappiness1/creating-a-translation-api-training-deploying-and-testing-with-lamatic-ai-4fa996f2fa6a)
 - [Getting Started with ToothFairyAI: Build Your First Smart Agent in Minutes](https://medium.com/@omalehappiness1/getting-started-with-toothfairyai-build-your-first-smart-agent-in-minutes-5094f0cdf329)
 - [My First AI Agent: Building a Data Science Assistant Chatbot with Python and Streamlit](https://medium.com/@omalehappiness1/my-first-ai-agent-building-a-data-science-assistant-chatbot-with-python-and-streamlit-f917a1d1be29)
+- [How to Build a Smart Expense Tracker with Python and LLMs ](https://www.freecodecamp.org/news/build-smart-expense-tracker-with-python-and-llms)
 
 
 ---
