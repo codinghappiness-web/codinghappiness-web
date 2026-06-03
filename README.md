@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Happiness Omale!
 
-###  Developer Advocate | Technical Writer |  Data Scientist |  Community Manager
+###  AI_Developer Advocate | AI Engineer | Technical Writer | Technical Content Creator |  Community Manager
 
 ---
 
