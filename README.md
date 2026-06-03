@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Happiness Omale!
 
-###  AI_Developer Advocate | AI Engineer | Technical Writer | Technical Content Creator |  Community Manager
+###  AI_Developer Advocate | AI Engineer | Technical Content Creator |  Community Manager
 
 ---
 
@@ -17,6 +17,7 @@ I'm a multi-skilled tech individual with a passion for building intelligent syst
 - 💬 I enjoy simplifying AI & dev tools for communities through **DevRel-focused storytelling**
 - 🧩 Interests: AI Agents, Data Quality, AI, Developer Relations, Community Management
 - 🧑🏽‍🎓 Alumni @DxMentorship Cohort 4, 2025
+- 🧑🏽‍🎓 Alumni @Outreachy May Applicant, 2026
 - 👥 Community Manager – Women Techmakers Lagos | Inventors Community
 
 ---
